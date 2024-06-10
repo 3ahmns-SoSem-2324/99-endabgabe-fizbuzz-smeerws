@@ -1,4 +1,9 @@
-# 99-endabgabe-fizbuzz-smeerws
+# Endabgabe Fizz Buzz
+von: ID: 99 Name: Susanne Meerwald-Stadler
+
+Beschreibung allgemein:
+
+Technisches Setup:
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 https://mermaid.live/
