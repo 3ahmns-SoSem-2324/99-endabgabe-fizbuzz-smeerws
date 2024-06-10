@@ -21,4 +21,5 @@ classDiagram
         +stoppen() void
     }
     Roboter <|-- Haushaltsroboter
+    MonoBehaviour <|-- Roboter
 ```
